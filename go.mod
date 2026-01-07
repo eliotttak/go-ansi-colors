@@ -1,3 +1,3 @@
-module github.com/eliotttak/ansicolors
+module github.com/eliotttak/go-ansi-colors
 
 go 1.24

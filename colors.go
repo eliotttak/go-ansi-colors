@@ -1,4 +1,4 @@
-package ansicolors
+package colors
 
 import "fmt"
 
